@@ -1,0 +1,6 @@
+{
+  "name": "Petualangan Puncak SDA - Game IPAS Kelas 5 SD",
+  "description": "Game pembelajaran interaktif IPA/IPAS kelas 5 SD tentang Sumber Daya Alam dengan kuis tantangan, animasi mendaki gunung, dan sistem poin unlock level.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
